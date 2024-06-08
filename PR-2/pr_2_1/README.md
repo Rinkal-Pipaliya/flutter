@@ -1,16 +1,10 @@
-# pr_2_1
+# `Project - 01 List of Fruits`
+### `Description` 
+  - Platform : Android Studio, VS Code
+  - practice for this App :-    
+        Appbar, Text.rich, Alignment, Color widgets, Text widget etc.....
 
-A new Flutter project.
 
-## Getting Started
+## `Output:`
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p> <img src="https://github.com/Rinkal-Pipaliya/flutter/assets/149695892/8e70acc5-77a4-4cf8-8a3c-272ce5a54ac6.png" height="30%" width="40%"> </p>
