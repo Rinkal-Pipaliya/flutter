@@ -82,7 +82,7 @@ void main() {
                   ),
                 ),
                 TextSpan(
-                  text: "DESIGH",
+                  text: "DESIGN",
                   style: TextStyle(
                     color: Colors.orange,
                     fontSize: 30,
